@@ -1,0 +1,44 @@
+body {
+	background: rgb(237,227,227);
+	background: linear-gradient(90deg, 			rgba(237,227,227,1) 0%, rgba(243,135,255,1) 23%, rgba(199,61,214,1) 93%);
+	border: 3px ridge black;
+}
+
+.body {
+	margin: 10px;
+	padding: 10px;
+	line-height: 30px;
+}
+
+h1, p {
+    font-family: sans-serif;
+}
+
+span {
+	color: #FFD9F9;
+}
+h1 {
+	border: 4px groove #BC2FCC;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	text-decoration: overline underline;
+}
+
+.cool-quote {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight: bold;
+}
+
+#favorite-quote {
+  	font-variant: small-caps;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	background-color: #FFD9F9;
+	font-size: 20px;
+}
+
+#black-quote {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
